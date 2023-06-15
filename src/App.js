@@ -1,13 +1,13 @@
 import "./App.css";
 import React, { Component } from "react";
-import bootnav from "./Components/bootnav";
+import NavBar from "./Components/NavBar";
 
 export default class App extends Component {
   render() {
     return (
-        <div>
-          
-        </div>
+      <div>
+        <NavBar />
+      </div>
     );
   }
 }
