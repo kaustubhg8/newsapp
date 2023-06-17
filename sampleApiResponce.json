@@ -1,0 +1,73 @@
+{
+    "status": "ok",
+    "totalResults": 24,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "BBC",
+            "title": "Cyclone Biparjoy: More than 170000 evacuated as India, Pakistan brace for storm - BBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3dvcmxkLWFzaWEtaW5kaWEtNjU5MTE3MznSAThodHRwczovL3d3dy5iYmMuY28udWsvbmV3cy93b3JsZC1hc2lhLWluZGlhLTY1OTExNzM5LmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-15T10:12:49+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Police charge India wrestling chief with sexual harassment",
+            "description": "Filing of charges follows a weeks-long protest by the sport’s top figures demanding Brij Bhushan Sharan Singh’s arrest.",
+            "url": "http://www.aljazeera.com/news/2023/6/15/police-charge-india-wrestling-chief-with-sexual-harassment",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/AP23160470800164-1686819212.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-15T08:56:56Z",
+            "content": "The police in India have filed charges against the chief of the countrys wrestling federation following complaints of sexual misconduct by female athletes, a police officer told reporters.\r\nThe filin… [+2248 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Cyclone Biparjoy live news: India, Pakistan brace for landfall",
+            "description": "Nearly 150,000 people flee the predicted path of Biparjoy, ‘disaster’ in Bengali, as officials issue a high alert.",
+            "url": "http://www.aljazeera.com/news/liveblog/2023/6/15/cyclone-biparjoy-live-news-india-pakistan-brace-for-landfall",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/06/11538714-1686816567.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-06-15T08:14:26Z",
+            "content": "blinking-dot\r\nLive updatesLive updates, \r\nNearly 150,000 people flee the predicted path of Biparjoy, disaster in Bengali, amid warnings it could devastate homes and tear down power lines."
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "India Today",
+            "title": "Fire at Delhi coaching centre, students seen jumping out of windows - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2NpdGllcy9kZWxoaS9zdG9yeS9maXJlLWRlbGhpLWNvYWNoaW5nLWNlbnRyZS1tdWtoZXJqZWUtbmFnYXItc3R1ZGVudHMtanVtcGluZy1vdXQtd2luZG93LTIzOTMzMzEtMjAyMy0wNi0xNdIBigFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC9jaXRpZXMvZGVsaGkvc3RvcnkvZmlyZS1kZWxoaS1jb2FjaGluZy1jZW50cmUtbXVraGVyamVlLW5hZ2FyLXN0dWRlbnRzLWp1bXBpbmctb3V0LXdpbmRvdy0yMzkzMzMxLTIwMjMtMDYtMTU?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-06-15T07:57:23+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Lightspeed says India not for the faint-hearted amid Sequoia split",
+            "description": "Bejul Somaia of Lightspeed staunchly defended the opportunities in India days after Sequoia's decision to segregate the India venture.",
+            "url": "https://techcrunch.com/2023/06/14/lightspeed-says-india-not-for-the-faint-hearted-amid-sequoia-split/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1009830280.jpg?resize=1200,800",
+            "publishedAt": "2023-06-15T05:57:55Z",
+            "content": "Bejul Somaia, the founding partner of Lightspeed India, staunchly defended the allure of South Asia’s investment landscape, even in the wake of unsettling movements such as Sequoia’s decision to segr… [+3786 chars]"
+        }
+
+        
+    ]
+}
